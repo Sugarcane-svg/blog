@@ -1,0 +1,8 @@
+{
+	"editor.columnSelection": true,
+    "editor.cursorBlinking": "smooth",
+    "diffEditor.codeLens": true,
+    "jupyter.disableJupyterAutoStart": true,
+    "python.testing.autoTestDiscoverOnSaveEnabled": false,
+	"editor.trimAutoWhitespace": false
+}
